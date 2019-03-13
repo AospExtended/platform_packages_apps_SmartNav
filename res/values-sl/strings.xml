@@ -25,7 +25,7 @@
     <string name="label_action_screenrecord">Posnemi zaslon</string>
     <string name="label_action_expanded_desktop">Razširjeno namizje</string>
     <string name="label_action_screen_off">Izklopi zaslon</string>
-    <string name="label_action_force_close_app">Vsili zapiranje aplikacije</string>
+    <string name="label_action_force_close_app">Prisilno zapri aplikacijo</string>
     <string name="label_action_search_assistant">Pomočnik za iskanje</string>
     <string name="label_action_google_now_on_tap">Pomočnik Google</string>
     <string name="label_action_voice_search">Glasovno iskanje</string>
