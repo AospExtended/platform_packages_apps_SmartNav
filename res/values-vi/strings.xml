@@ -22,7 +22,7 @@
     <string name="label_action_notification_panel">Bảng thông báo</string>
     <string name="label_action_screenshot">Chụp màn hình</string>
     <string name="label_action_region_screenshot">Chụp một phần màn hình</string>
-    <string name="label_action_screenrecord">Ghi lại màn hình</string>
+    <string name="label_action_screenrecord">Quay màn hình</string>
     <string name="label_action_expanded_desktop">Mở rộng màn hình</string>
     <string name="label_action_screen_off">Tắt màn hình</string>
     <string name="label_action_force_close_app">Buộc dừng ứng dụng</string>
@@ -69,10 +69,10 @@
     <string name="label_smartbar_icon_gallery">Thư viện</string>
     <string name="label_smartbar_icon_color">Màu sắc</string>
     <string name="label_smartbar_icon_reset">Thiết lập lại</string>
-    <string name="smartbar_editor_toast_starting">Đang bắt đầu biên tập thanh điều hướng</string>
-    <string name="smartbar_editor_toast_stopping">Đang dừng biên tập thanh điều hướng</string>
-    <string name="smartbar_editor_toast_unavailable">Biên tập thanh điều hướng không có sẵn</string>
-    <string name="edit_mode">Chế độ Chỉnh sửa</string>
+    <string name="smartbar_editor_toast_starting">Đang bắt đầu chỉnh sửa thanh điều hướng</string>
+    <string name="smartbar_editor_toast_stopping">Đang dừng chỉnh sửa thanh điều hướng</string>
+    <string name="smartbar_editor_toast_unavailable">Chỉnh sửa thanh điều hướng không có sẵn</string>
+    <string name="edit_mode">Chế độ chỉnh sửa</string>
     <!-- App killed message -->
     <string name="app_killed_message">%s đã dừng</string>
     <!-- Pulse and media arrows blacklist -->
